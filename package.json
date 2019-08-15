@@ -21,7 +21,7 @@
     "split": "^1.0.0"
   },
   "devDependencies": {
-    "standard": "*",
+    "standard": ">=13.1.0",
     "tape": "^4.0.0"
   },
   "keywords": [
